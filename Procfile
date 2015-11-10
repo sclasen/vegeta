@@ -1,1 +1,1 @@
-attack: vegeta attack
+attack: bin/attack.sh
