@@ -1,0 +1,13 @@
+{
+	"ImportPath": "github.com/tsenart/vegeta",
+	"GoVersion": "go1.5.1",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/streadway/quantile",
+			"Rev": "b0c588724d25ae13f5afb3d90efec0edc636432b"
+		}
+	]
+}
